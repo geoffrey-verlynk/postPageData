@@ -1,0 +1,41 @@
+{
+"data": {
+  "userId": "3432123",
+  "trendingHashtags": [
+    {
+      "hashtag": "#india",
+      "numberOfPosts":"127800"
+    },
+    {
+      "hashtag": "#teamindia",
+      "numberOfPosts":"568000"
+    },
+    {
+      "hashtag": "#msd",
+      "numberOfPosts":"58020"
+    },
+    {
+      "hashtag": "#movies",
+      "numberOfPosts":"630000"
+    }
+  ],
+  "aiHashtags":[
+    {
+       "hashtag": "#salaar",
+      "numberOfPosts":"127800"
+    },
+    {
+      "hashtag": "#leo",
+      "numberOfPosts":"568000"
+    },
+    {
+      "hashtag": "#cricket",
+      "numberOfPosts":"58020"
+    },
+    {
+      "hashtag": "#film",
+      "numberOfPosts":"630000"
+    }
+  ]
+}
+}
