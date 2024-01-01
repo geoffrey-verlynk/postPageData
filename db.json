@@ -36,6 +36,12 @@
       "hashtag": "#film",
       "numberOfPosts":"630000"
     }
+  ],
+  "hashTagGroups": [
+    {
+      "name": "Cricket",
+      "hashtags": ["india","cricket","match","finals","playoffs"]
+    }
   ]
 }
 }
