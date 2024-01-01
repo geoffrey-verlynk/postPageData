@@ -42,6 +42,7 @@
       "name": "Cricket",
       "hashtags": ["#india","#cricket","#match","#finals","#playoffs"]
     }
-  ]
+  ],
+  "aiHashtagSuggestions": ["#india","#cricket","#match","#finals","#playoffs","#india","#cricket","#match","#finals","#playoffs"]
 }
 }
